@@ -1,0 +1,2 @@
+# OptimeProduct
+Aplicación realizada de productos con sus categorías, creadas en PHP con SYMFONY. Es un CRUD (Create, Read, Update, Delete) de Productos, con sus respectivas entidades Product y Categoria y su relacion ManyToOne. La base de datos que se utiliza es MySql(phpMyAdmin). Contiene formulario para registrar nuevos productos. Éste tiene estilos CSS. Instalando un Bundle de menu(aun por culminar). Es una aplicación realmente interesante para practicar y aprender, la idea es mejorar el proyecto ya que aun le faltan algunas funcionalidades.
