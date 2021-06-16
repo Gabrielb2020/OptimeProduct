@@ -1,0 +1,13 @@
+product:
+     path: /products
+     controller: App\Controller\ProductController::index
+
+register:
+    path: /register
+    controller: App\Controller\ProductController::register
+
+product_edit:
+     path: /editproducts/{id}
+     controller: App\Controller\ProductController::update
+
+    
